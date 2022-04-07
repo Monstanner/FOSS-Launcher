@@ -21,7 +21,7 @@ fi
 # MangoHud anzeigen: mangohud (Spiel)
 # MangoHud OpenGL anzeigen: mangohud --dlsym (Spiel)
 # MangoHud mit Spezieller Konfiguraton anzeigen: MANGOHUD_CONFIGFILE=/pfad/zur/config.conf mangohud (Spiel)
-# MangoHud OpenGL mit Spezieller Konfiguraton anzeigen: MANGOHUD_CONFIGFILE=/pfad/zur/config.conf mangohud (Spiel)
+# MangoHud OpenGL mit Spezieller Konfiguraton anzeigen: MANGOHUD_CONFIGFILE=/pfad/zur/config.conf mangohud --dlsym (Spiel)
 
 
 #!/bin/bash
