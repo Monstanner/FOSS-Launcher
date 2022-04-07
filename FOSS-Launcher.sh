@@ -11,7 +11,7 @@ fi
 # Nützliche Optionen:
 
 # XServer
-# Ändert die XServer (X11) Auflösung: xrandr --size 1366x768
+# Ändert die XServer (X11) Auflösung: xrandr --size (Bildschirmauflösung)
 
 # XFCE
 # Blendet das XFCE4-Panel aus: xfconf-query --channel 'xfce4-panel' --property '/panels/panel-1/autohide-behavior' --type int --set 2
